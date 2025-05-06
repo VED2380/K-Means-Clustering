@@ -8,8 +8,6 @@ This project applies the **K-Means clustering** algorithm on customer data from 
 
 - `Mall_Customers.csv` — Dataset containing customer demographics and behavior.
 - `k_means_clustering.ipynb` — Jupyter notebook implementing the clustering analysis.
-- `Mall_Customers_with_Clusters.csv` (optional) — Final dataset with cluster labels (if saved).
-
 ## Steps in the Notebook
 
 1. **Data Loading and Preparation**  
